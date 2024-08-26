@@ -77,11 +77,6 @@
   <string name="terrain">Relief</string>
   <string name="next">Suivant</string>
   <string name="select_survey_title">Sélectionner une enquête</string>
-
-
-
-
-
   
   <string name="survey_sync_hint">Une fois ouvertes, les enquêtes sont disponibles hors ligne et synchronisées automatiquement lorsqu'elles sont en ligne.</string>
   <string name="sync_dialog_subtitle">Vos données seront bientôt synchronisées.</string>
@@ -111,7 +106,7 @@
   <string name="cancel">Annuler</string>
   <string name="save">Sauvegarder</string>
   <string name="no_imagery_available_for_area">Pas d'imagerie pour cette zone. Sélectionnez une zone avec d'imagerie à télécharger sur votre appareil.</string>
-  <string name="selected_offline_area_size">La zone sélectionnée peut occuper jusqu'à %s\u00A0MB d'espace sur votre appareil.</string>
+  <string name="selected_offline_area_size">La zone sélectionnée peut occuper jusqu'à %s\u00A0MO d'espace sur votre appareil.</string>
   <string name="selected_offline_area_too_large">Zoomer et sélectionner une zone plus petite à télécharger sur votre appareil</string>
   <string name="offline_area_size_loading_symbol">…</string>
   <string name="offline_area_select_cancel_button">Annuler</string>
@@ -124,8 +119,8 @@
   <string name="area">Zone</string>
   <string name="unnamed_point">Point non nommé</string>
   <string name="unnamed_area">Zone non nommée</string>
-  <string name="offline_area_size_on_disk_mb">%s\u00A0MB sur disque</string>
-  <string name="offline_area_list_item_size_on_disk_mb">%s\u00A0MB</string>
+  <string name="offline_area_size_on_disk_mb">%s\u00A0MO sur disque</string>
+  <string name="offline_area_list_item_size_on_disk_mb">%s\u00A0MO</string>
   <string name="offline_downloaded_areas">Zones téléchargées</string>
   <string name="offline_area_list_tip">Disponible pour visualisation hors ligne</string>
   <string name="offline_area_list_item_icon">Icône de l'élément de la liste de la zone hors ligne</string>
