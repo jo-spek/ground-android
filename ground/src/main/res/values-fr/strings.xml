@@ -48,7 +48,7 @@
   <string name="offline_area_selector">Sélectionnez une zone à télécharger</string>
   <string name="offline_area_selector_prompt">Sélectionnez une carte de base pour l&#8217;utilisation hors ligne</string>
   <string name="offline_area_selector_download">Télécharger</string>
-  <string name="camera">Télécharger</string>
+  <string name="camera">Caméra</string>
   <string name="photo_preview">Prévisualisation</string>
   <string name="settings">Paramètres</string>
   <string name="offline_area_viewer_title">Zone téléchargée</string>
